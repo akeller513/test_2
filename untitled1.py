@@ -32,5 +32,6 @@ def test(z):
 print(x)
 test('local z')
 
-print(hello)
+def hello_function(name):
+    print(f"hello {name}")
 
