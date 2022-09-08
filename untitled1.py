@@ -31,3 +31,6 @@ def test(z):
     
 print(x)
 test('local z')
+
+print(hello)
+
