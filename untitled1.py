@@ -32,6 +32,8 @@ def test(z):
 print(x)
 test('local z')
 
+def hello_function():
+    pass
 def bye_function():
     pass
 
