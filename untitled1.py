@@ -32,6 +32,6 @@ def test(z):
 print(x)
 test('local z')
 
-def hello_function(name):
-    print(f"hello {name}")
+def bye_function():
+    pass
 
