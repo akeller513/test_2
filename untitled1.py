@@ -32,5 +32,9 @@ def test(z):
 print(x)
 test('local z')
 
+<<<<<<< HEAD
 conflicting_code = True 
+=======
+#code here please conflict 
+>>>>>>> 08ae7c732b973e509f959bcde50ebd5c3752e1da
 
